@@ -6,6 +6,6 @@
   
   1 x OpenMV Cam H7 Plus https://openmv.io/products/openmv-cam-h7-plus
   
-  2 x IR sensor ???
+  2 x Infrared Proximity Sensor - Sharp GP2Y0A21YK https://www.sparkfun.com/products/242
   
-  1 x IR camera ???
+  1 x Gravity: IR Positioning Camera https://www.dfrobot.com/product-1088.html
