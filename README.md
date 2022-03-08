@@ -8,4 +8,6 @@
   
   2 x Infrared Proximity Sensor - Sharp GP2Y0A21YK https://www.sparkfun.com/products/242
   
+  2 x JST to Breadboard Jumper (3-pin) for Sharp IR sensors https://www.sparkfun.com/products/13685
+  
   1 x Gravity: IR Positioning Camera https://www.dfrobot.com/product-1088.html
