@@ -11,3 +11,5 @@
   2 x JST to Breadboard Jumper (3-pin) for Sharp IR sensors https://www.sparkfun.com/products/13685
   
   1 x Gravity: IR Positioning Camera https://www.dfrobot.com/product-1088.html
+
+  1 x Tape measure
