@@ -1,4 +1,8 @@
-# D22-2002-Lab-Kit
+# RBE 2002 Lab Kit
+
+**All materials in this kit will be provided by the lab.**
+
+You will be expected to sign out a kit at the start of the term and return it complete at the end.
 
   2 x ulltrasonic HC-SR04 https://www.digikey.com/en/products/detail/adafruit-industries-llc/3942/9658069
   
